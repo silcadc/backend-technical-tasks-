@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3-rc.0",
+    "sequelize": "^6.9.0"
+  },
+  "name": "4.exercises4",
+  "version": "1.0.0",
+  "description": "Exercises Lean Tech",
+  "main": "4.exercises4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silena Dangond",
+  "license": "MIT"
+}
